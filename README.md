@@ -10,6 +10,7 @@
 
 ## 👨‍💻 About Me
 
+- 🌍 All about me is at **[My Website](https://your-website.com)**
 - ⚡ Currently Focused On: **Frontend + Backend + DevOps** — on a mission to master Fullstack Engineering
 - 🧩 Comfortable across the stack with **Angular, Vue, TypeScript, JavaScript, Java, Spring Boot, Python, Node.js, NestJS, Go**, and SQL/PostgreSQL
 - 🏗️ I enjoy blending clean backend architecture with polished, usable frontend design
