@@ -4,8 +4,6 @@
   <br>
   <code>Full-stack Software Engineer</code>
   <br>
-  <br>
-  <code>Angular • Go • TypeScript • Spring Boot • Node.js • Nestjs • Psql</code>
 </h3>
 
 ## 👨‍💻 About Me
